@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @SoyAnneWolf
+- 👋 Hi, I’m @soyannewolf
 - 👀 I’m interested in Web Development, Graphic Design and NFT Art
 - 🌱 I’m currently learning HTML, CSS and JavaScript
 - 💞️ I’m looking to collaborate on any Web related or Graphic related projects
